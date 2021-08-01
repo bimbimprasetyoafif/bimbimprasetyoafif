@@ -15,9 +15,9 @@ I am an IT Student, Software Engineer and Backend Anthhusiast. I like coding in 
 
 
 Wanna make cool stuf together ? Feel free to talk and let's discuss.
-
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 -------
-##### Last update Apr 04, 21
+##### Last update Aug 1, 21
 
 
 
