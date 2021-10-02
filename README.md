@@ -11,7 +11,6 @@
 ![](https://komarev.com/ghpvc/?username=bimbimprasetyoafif&color=blueviolet)
 
 ## Bio
-- 🎓 Getting my [A.Md.Kom](https://id.wikipedia.org/wiki/Gelar_vokasi) on October 2nd 2021.
 - 🏢 Currently work on Backend Engineering.
 - ❤️ Kpop, Flora, Fauna, Food
 - 😎 Fun Fact: I like to sing ballad
@@ -29,7 +28,7 @@ Wanna make cool stuf together ? Feel free to talk and let's discuss.
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)
 -------
-##### Last update Sep 23, 21
+##### Last update Oct 03, 21
 
 
 
