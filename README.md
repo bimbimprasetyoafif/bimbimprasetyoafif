@@ -21,14 +21,16 @@ Wanna make cool stuf together ? Feel free to talk and let's discuss.
 ## Tech Stack
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Golang](https://img.shields.io/badge/GOLANG-3C6498.svg?&style=flat&logo=go&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-3C6498.svg?&style=flat&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B.svg?&style=flat&logo=rest-api&logoColor=white)
 ![gRPC API](https://img.shields.io/badge/gRPC_API-9cf.svg?&style=flat&logo=rpc&logoColor=white)
 ![GraphQl API](https://img.shields.io/badge/GraphQl_API-E10098.svg?&style=flat&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+![SWAGGER](https://img.shields.io/badge/SWAGGER-%23F05033.svg?&style=flat&logo=swagger&logoColor=white)
 -------
-##### Last update Oct 03, 21
+##### Last update Oct 11, 21
 
 
 
