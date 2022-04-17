@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bimo_Prasetyo_Afif-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bimoprasetyoafif/)
 [![Telegram Badge](http://img.shields.io/badge/-bimoprasetyoafif-9cf?style=flat&logo=Telegram&logoColor=white)](https://t.me/bimoprasetyoafif)
-[![Website Badge](https://img.shields.io/badge/-bimopa.me-red?style=flat&logo=Google-Chrome&logoColor=white)](https://bimopa.me)
+[![Website Badge](https://img.shields.io/badge/-bimopa.dev-blue?style=flat&logo=Google-Chrome&logoColor=white)](https://bimopa.dev)
 
 ![](https://komarev.com/ghpvc/?username=bimbimprasetyoafif&color=blueviolet)
 
